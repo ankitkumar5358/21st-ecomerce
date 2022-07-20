@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": "next-sanity"
   },
   "api": {
-    "projectId": "wpike2j1",
+    "projectId": "c77n7mc5",
     "dataset": "production"
   },
   "plugins": [
