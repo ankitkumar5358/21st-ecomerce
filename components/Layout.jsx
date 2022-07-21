@@ -7,7 +7,7 @@ const Layout = ({children}) => {
   return (
     <div className='layout'>
       <Head>
-        <title>Ankit-eCommerce 🛍️</title>
+        <title>21st eCommerce 🛍️</title>
       </Head>
       <header>
         <Navbar />
